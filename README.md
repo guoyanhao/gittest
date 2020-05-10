@@ -16,12 +16,9 @@ test hahahah 2222
 
 add to master
 
-<<<<<<< HEAD
 edit on feature1
-=======
 
 
 
 
 edit on master
->>>>>>> master
