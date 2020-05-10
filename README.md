@@ -2,3 +2,5 @@
 
 **git push**
 `git push`
+
+**git checkout -b dev**
